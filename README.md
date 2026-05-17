@@ -32,5 +32,5 @@ Voici un aperçu de mes travaux récents que vous pouvez explorer sur mon profil
 ---
 
 ### 📫 Me contacter
-* **LinkedIn :** [Ajoute ton lien LinkedIn ici si tu en as un !]
+* **LinkedIn :https://www.linkedin.com/in/anderson-kamga-chatue-5a75123b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBq2OO3CWQn%2BM%2FKp0cDKIOg%3D%3D
 * **GitHub :** Vous êtes au bon endroit ! 🚀
