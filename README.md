@@ -27,7 +27,8 @@ Voici un aperçu de mes travaux récents que vous pouvez explorer sur mon profil
 
 ## 🎯 Objectifs actuels
 * Approfondir mes compétences en *Ethical Hacking* et durcissement d'infrastructures.
-* Recherche active d'un stage ou d'une alternance en cybersécurité pour l'année universitaire à venir.
+* Ameliorer mes connaissances et mes compétence en devloppement d'application de bureau en C# ( .NEt).
+* Recherche active d'un stage ou d'une alternance en cybersécurité et developpement pour l'année universitaire à venir.
 
 ---
 
