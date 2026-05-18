@@ -9,8 +9,8 @@ Je suis un **étudiant de deuxième année en Bachelor Informatique, spécialis�
 Voici un aperçu de mes travaux récents que vous pouvez explorer sur mon profil :
 
 * **[Network Scanner & Vulnerability Auditor](https://github.com/Andy-max55/Cyber-Journey-2025) :** Script Python d'automatisation utilisant Nmap pour auditer les ports d'un réseau et générer des rapports de sécurité professionnels au format PDF.
-* **[Andy Candy](https://github.com/Andy-max55/Andy_Candy) :** Application de jeu interactif développée en **Java** avec une structure **Maven**, mettant en pratique les concepts avancés de la Programmation Orientée Objet (POO).
-* **[PressingG3](https://github.com/Andy-max55/ProjetG3-C-) :** Application lourde de gestion de pressing conçue en **C# / WPF** en utilisant le pattern architectural **MVVM** et **Entity Framework Core** pour la persistance des données.
+* **[Andy Candy(JAVA)](https://github.com/Andy-max55/Andy_Candy) :** Application de jeu interactif développée en **Java** avec une structure **Maven**, mettant en pratique les concepts avancés de la Programmation Orientée Objet (POO).
+* **[PressingG3(C#)](https://github.com/Andy-max55/ProjetG3-C-) :** Application lourde de gestion de pressing conçue en **C# / WPF** en utilisant le pattern architectural **MVVM** et **Entity Framework Core** pour la persistance des données.
 
 ---
 
